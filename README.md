@@ -1,18 +1,18 @@
-# finalpro
+# FRT
 Project for FRT
 
-[manojmore-523.github.io/finalpro/](https://github.com/manojmore-523/finalpro.git)
+https://github.com/manojmore-523/frt
 
-https://victorious-cliff-0e1a4e910.1.azurestaticapps.net
+https://lemon-moss-028bf3d10.1.azurestaticapps.net
 
-# ✨ Coffee Heaven Website  ✨
+# ✨ Library Website  ✨
 
 This is a web based application developed for a coffee shop named Coffee Heaven.
 
 ### This web based coffee shop application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://victorious-cliff-0e1a4e910.1.azurestaticapps.net
+**Project Link** (https://lemon-moss-028bf3d10.1.azurestaticapps.net)
 
 
 **Demo Video** -  https://www.youtube.com/watch?v=cfh7dHVn8kU
@@ -22,7 +22,7 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About , Menu, Gallery , Team , Contact etc.
+- Has collection of many web pages including Home, Book , Report, Contact .
 - User is able to book a table through the website.
 
 
@@ -31,10 +31,10 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 ![](im/home.png)
 
 ### Books Page -
-![](im/book.png)
+![](im/books.png)
 
 ### Report page -
-![](im/repot.png)
+![](im/report.png)
 
 ### Contact page -
 ![](im/contact.png)
