@@ -15,7 +15,7 @@ This is a web based application developed for a Library .
 **Project Link** (https://lemon-moss-028bf3d10.1.azurestaticapps.net)
 
 
-**Demo Video** -  https://www.youtube.com/watch?v=cfh7dHVn8kU
+**Demo Video** -  https://www.youtube.com/watch?v=15tNru-035o
 
 ## Features and Functionalities 😃
 
