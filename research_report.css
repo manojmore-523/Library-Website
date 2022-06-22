@@ -1,0 +1,8 @@
+.vertical-scrollable> .row {
+    position: absolute;
+    top: 0px;
+    bottom: 1000px;
+    left: 1000px;
+    width: 100%;
+    overflow-y: scroll; 
+  }
