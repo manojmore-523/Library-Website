@@ -7,9 +7,9 @@ https://lemon-moss-028bf3d10.1.azurestaticapps.net
 
 # ✨ Library Website  ✨
 
-This is a web based application developed for a coffee shop named Coffee Heaven.
+This is a web based application developed for a Library .
 
-### This web based coffee shop application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Library Website has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** (https://lemon-moss-028bf3d10.1.azurestaticapps.net)
