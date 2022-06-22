@@ -28,17 +28,16 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 
 ## Screenshots 📸
 ### Home page -   
-![](img/ss_home.png)
-### About Page -
-![](img/ss_about.png)
-### Menu Page -
-![](img/ss_menu.png)
-### Gallery Page -
-![](img/ss_gallary.png)
-### Team page -
-![](img/ss_team.png)
+![](im/home.png)
+
+### Books Page -
+![](im/book.png)
+
+### Report page -
+![](im/repot.png)
+
 ### Contact page -
-![](img/ss_contact.png)
+![](im/contact.png)
 
 
 
@@ -47,5 +46,4 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- JavaScript
 
